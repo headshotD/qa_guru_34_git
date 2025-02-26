@@ -7,6 +7,8 @@ public class Main {
         //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
         // to see how IntelliJ IDEA suggests fixing it.
         System.out.printf("Hello qa.guru!");
+        System.out.printf("Hello qa!");
+        System.out.printf("Hello !");
 
         for (int i = 1; i <= 5; i++) {
             // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
