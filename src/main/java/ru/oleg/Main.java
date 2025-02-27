@@ -8,8 +8,9 @@ public class Main {
         // to see how IntelliJ IDEA suggests fixing it.
         System.out.printf("Close");
         System.out.printf("This");
-        System.out.printf("54321");
-        System.out.printf("12345");
+        System.out.printf("1Page1");
+        System.out.printf("2Page2");
+        System.out.printf("3Page333");
 
         for (int i = 1; i <= 5; i++) {
             // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
